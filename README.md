@@ -39,8 +39,9 @@ AI 기반 UI/UX 디자인 시안 제작 프로젝트 진행
 
 //====================================
 
-피그마 링크 : 
-https://www.figma.com/make/DgAeD2tfFCVTX621DqnaI5/UI-UX-%EA%B2%80%ED%86%A0-%EB%B0%8F-%EC%88%98%EC%A0%95?t=GbbEEziuwmIZcXFg-1
+피그마 링크 : https://mentor-gecko-57727407.figma.site
+
+//====================================
 
 
 
